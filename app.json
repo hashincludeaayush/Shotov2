@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shotoe",
-    "slug": "shotoe",
+    "name": "shotoev2",
+    "slug": "shotoev2",
     "description": "It's a music app named shotoe powered by shobbr india private limited",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +21,6 @@
       "supportsTablet": true
     },
     "android": {
-
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#000000"

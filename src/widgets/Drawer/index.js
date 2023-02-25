@@ -17,6 +17,7 @@ const menus = [
 	{ name: 'favourite', title: 'Favourite', screen: SCREENS.FAVOURITE },
 	{ name: 'recent', title: 'Recently Played', screen: SCREENS.RECENT },
 	{ name: 'playlist', title: 'Playlist', screen: SCREENS.PLAYLISTS },
+	{ name: 'about us', title: 'About Us', screen: SCREENS.ABOUT },
 ];
 
 const Index = ({
